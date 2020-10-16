@@ -12,4 +12,5 @@ class WeatherService {
     return response.data;
   }
 }
+
 export default WeatherService;
